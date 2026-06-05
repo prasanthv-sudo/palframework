@@ -1,0 +1,19 @@
+{
+  "name": "aila-scoring-engine",
+  "version": "1.0.0",
+  "description": "AILA — Adaptive AI Literacy Assessment System (Provisional Patent, FISAT Business School)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["AI literacy", "adaptive assessment", "IRT", "education"],
+  "author": "Prasanth, FISAT Business School",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
