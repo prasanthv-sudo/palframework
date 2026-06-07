@@ -1,5 +1,5 @@
 # AILA — Adaptive AI Literacy Assessment System
-### Provisional Patent | FISAT Business School | Prasanth | 2026
+### Provisional Patent | NITC | Prasanth | 2026
 
 A fully working browser-deployable demo of the **AILA multi-dimensional AI Literacy Scoring Engine**, implementing IRT 3-PL adaptive scoring, Behavioral Signal Processing (BSP), and Literacy Fingerprint Vector (LFV) generation across five PAL competency axes.
 
